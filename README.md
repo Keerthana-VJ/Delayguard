@@ -62,12 +62,13 @@ This project supports:
  4.SDG 13 – Climate Action
 
  ### Demo:
+“Our system doesn’t just guide the driver — it thinks ahead and adapts in real time.”
+While the user is navigating, our system continuously provides real-time guidance and predictive alerts based on the route conditions.”
+<img width="970" height="892" alt="image" src="https://github.com/user-attachments/assets/460a5d7c-f053-4178-8a4d-8c45beee45aa" />
 
-
+<img width="940" height="869" alt="image" src="https://github.com/user-attachments/assets/447b0da7-2a1a-49f8-9bb4-db8a45ab34f8" />
 
  ### Team:
-
-
 
 
  ### Future Scope:
