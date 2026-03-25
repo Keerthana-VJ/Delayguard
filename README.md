@@ -68,7 +68,7 @@ While the user is navigating, our system continuously provides real-time guidanc
 
 <img width="940" height="869" alt="image" src="https://github.com/user-attachments/assets/447b0da7-2a1a-49f8-9bb4-db8a45ab34f8" />
 
- ### Team:
+ ### Team Name: Doomsday
 
 
  ### Future Scope:
