@@ -1,4 +1,4 @@
-# LogiPredict AI
+# DelayGuard AI
 # AI-Powered Predictive Logistics Disruption & Route Optimization System.
 
 ## Team Name: Doomsday
